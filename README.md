@@ -4,9 +4,9 @@ Start your own Angular project with ng-dashboard in minutes!
 
 ## Demo
 
-<a target="_blank" href="https://ddvkid.github.io/ng-bootstrap"><img src="./screenshot.png" width="600" alt="Sky Blue"/></a>
+<a target="_blank" href="https://ddvkid.github.io/ng-dashboard"><img src="./screenshot.png" width="600" alt="Sky Blue"/></a>
 
-<a target="_blank" href="https://ddvkid.github.io/ng-bootstrap">Live Demo</a>
+<a target="_blank" href="https://ddvkid.github.io/ng-dashboard">Live Demo</a>
 
 ## How to start
 
