@@ -387,6 +387,8 @@ body.fixed-nav.fixed-nav-basic.fixed-sidebar.mini-navbar.body-small .navbar-fixe
 }
 body.mini-navbar .navbar-static-side {
   width: 70px;
+  position: absolute;
+  display: block;
 }
 body.mini-navbar .profile-element,
 body.mini-navbar .nav-label,
